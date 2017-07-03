@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/raf/Development/projecteuler_fortran/problem3
+-- Checking whether Fortran compiler has -isysroot
+-- Checking whether Fortran compiler has -isysroot - yes
+-- Checking whether Fortran compiler supports OSX deployment target flag
+-- Checking whether Fortran compiler supports OSX deployment target flag - yes
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/raf/Development/projecteuler_fortran/problem3/cmake-build-debug

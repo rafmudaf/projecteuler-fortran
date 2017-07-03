@@ -1,0 +1,29 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/raf/Development/projecteuler_fortran/problem2
+-- The C compiler identification is AppleClang 8.1.0.8020042
+-- The CXX compiler identification is AppleClang 8.1.0.8020042
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- The Fortran compiler identification is GNU 7.1.0
+-- Checking whether Fortran compiler has -isysroot
+-- Checking whether Fortran compiler has -isysroot - yes
+-- Checking whether Fortran compiler supports OSX deployment target flag
+-- Checking whether Fortran compiler supports OSX deployment target flag - yes
+-- Check for working Fortran compiler: /usr/local/bin/gfortran
+-- Check for working Fortran compiler: /usr/local/bin/gfortran  -- works
+-- Detecting Fortran compiler ABI info
+-- Detecting Fortran compiler ABI info - done
+-- Checking whether /usr/local/bin/gfortran supports Fortran 90
+-- Checking whether /usr/local/bin/gfortran supports Fortran 90 -- yes
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/raf/Development/projecteuler_fortran/problem2/cmake-build-debug
