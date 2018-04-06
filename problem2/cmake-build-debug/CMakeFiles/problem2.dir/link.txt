@@ -1,1 +1,0 @@
-/usr/local/bin/gfortran    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk CMakeFiles/problem2.dir/main.F90.o  -o problem2 
